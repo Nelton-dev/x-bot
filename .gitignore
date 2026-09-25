@@ -1,0 +1,15 @@
+# Dependencies
+node_modules/
+
+# Sessions — contêm credenciais WhatsApp (não versionar)
+sessions/
+
+# Environment — variáveis sensíveis
+.env
+
+# Logs de atividade
+activity.log
+
+# OS files
+.DS_Store
+Thumbs.db
